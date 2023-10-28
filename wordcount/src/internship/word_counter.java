@@ -14,7 +14,7 @@ public class word_counter extends JFrame implements ActionListener {
 
         // Create text area and count button
         textArea = new JTextArea(10, 30);
-        countButton = new JButton("Count");
+        countButton = new JButton("Count ");
 
         // Create count label with initial value of zero
         countLabel = new JLabel("Word count:   0");
